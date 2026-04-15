@@ -461,10 +461,10 @@ v---
 ## Documenting workflow
 * using (Fiji) macro recorder
 * saving macro as attachment in OMERO
-<img src="images/fiji-macro.jpg" height=350px>
+<img src="images/Fiji-macro.jpg" height=350px>
  
 <font size=4>
-SSBD image <a href="https://omero-prod.camp.thecrick.org/webclient/?show=image-145516">
+SSBD image <a href="https://omero-prod.crick.ac.uk/webclient/?show=image-145516">
 ID:3374</a>; Aoki et al. (2013)
 </font>
 
